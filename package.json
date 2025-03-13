@@ -1,0 +1,20 @@
+{
+  "name": "es-utils",
+  "version": "1.0.0",
+  "description": "common toolkit",
+  "keywords": ["utils", "format", "money", "phone"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hs185556/es-utils.git"
+  },
+  "author": "hs18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hs185556/es-utils/issues"
+  },
+  "homepage": "https://github.com/hs185556/es-utils#readme"
+}
