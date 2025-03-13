@@ -1,8 +1,13 @@
 {
-  "name": "es-utils",
+  "name": "@hs18/es-utils",
   "version": "1.0.0",
   "description": "common toolkit",
-  "keywords": ["utils", "format", "money", "phone"],
+  "keywords": [
+    "utils",
+    "format",
+    "money",
+    "phone"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/hs185556/es-utils/issues"
   },
-  "homepage": "https://github.com/hs185556/es-utils#readme"
+  "homepage": "https://github.com/hs185556/es-utils#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
